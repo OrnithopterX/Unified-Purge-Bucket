@@ -26,7 +26,7 @@ Using the macro:
 It is recommended to place the nozzle_scrub macro in another file to keep the main printer.cfg clean. 
 
 Add this line to your printer.cfg file 
-``` gcode
+``` jinja2
 [include nozzle_scrub.cfg]
 ```
 
