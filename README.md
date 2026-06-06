@@ -26,7 +26,9 @@ Using the macro:
 It is recommended to place the nozzle_scrub macro in another file to keep the main printer.cfg clean. 
 
 Add this line to your printer.cfg file 
-``` [include nozzle_scrub.cfg] ```
+``` gcode
+[include nozzle_scrub.cfg]
+```
 
 
 We are currently in open beta! I have tested this system for many weeks, but I want to make it even better. Please let me know how it works for you! 
