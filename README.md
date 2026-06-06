@@ -30,7 +30,7 @@ Add this line to your printer.cfg file
 [include nozzle_scrub.cfg]
 ```
 
-nozzle_scrube.cfg file: 
+nozzle_scrub.cfg file: 
 ``` jinja2
 [gcode_macro clean_nozzle]
 ## Version 0.01 beta
