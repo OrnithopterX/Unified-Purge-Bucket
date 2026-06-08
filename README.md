@@ -18,9 +18,10 @@ Macro
 
 Required Hardware: 
 - 4x M3 t-nuts
-- 4x M3x6mm bolts
+- 4x M3x8mm bolts
 - 4x M2x10 self-tapping screws
 - 8x 6x3mm neodymium magnets
+- 1X brass wire brush, as used in the Decontaminator Purge Bucket & Nozzle Scrubber
 
 Using the macro: 
 It is recommended to place the nozzle_scrub macro in another file to keep the main printer.cfg clean. 
